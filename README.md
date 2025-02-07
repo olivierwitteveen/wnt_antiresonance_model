@@ -1,6 +1,6 @@
 # Modeling anti-resonance in the Wnt pathway
 
-Work performed by Bauer Group at TU Delft and Max Wilson lab in UCSB. 
+Work performed by Bauer Group at TU Delft and Max Wilson lab at UCSB. 
 
 ## Reference
 Anti-resonance in developmental signaling regulates cell fate decisions
