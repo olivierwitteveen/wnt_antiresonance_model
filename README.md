@@ -14,7 +14,7 @@ This repository contains the code used to perform the simulations. Here we compa
 ### Folders:
 - `data/`: Data traces (TopFlash, b-cat) for exposure-time experiment. 
 - `figures/`: Figures obtained from the simulations. 
-- `hv_simulation/`: Simulations from the hidden-variable model 
+- `hv_simulation/`: Contains simulations from the hidden variable model, stored in `.csv` files. They contain the concavity and anti-resonant frequencies predicted as a function of parameters of the model. 
 ### Notebooks
 - `ode_model.ipynb`: Simulations from the ODE model in Fig. 2.
 - `hv_model.ipynb`: Simulations from the hidden-variable model in Fig. 4. 
