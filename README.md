@@ -3,7 +3,7 @@
 Work performed by Bauer Group at TU Delft and Max Wilson lab at UCSB. 
 
 ## Reference
-S. J. Rosen, O. Witteveen, N. Baxter, R. S. Lach, M. Bauer, and M. Z. Wilson, Anti-resonance in developmental signaling regulates cell fate decisions. [Preprint] (2025). Available at: https://www.biorxiv.org/content/10.1101/2025.02.04.636331v1.
+S. J. Rosen, O. Witteveen, N. Baxter, R. S. Lach, M. Bauer, and M. Z. Wilson, Anti-resonance in developmental signaling regulates cell fate decisions. [Preprint] (2025). Available at: https://www.biorxiv.org/content/10.1101/2025.02.04.636331v2.
 
 ## Overview
 This repository contains the code used to perform the simulations. Here we compare the ODE model and hidden-variable model to the raw data from experiments, and analyze the anti-resonance predicted by the models. 
